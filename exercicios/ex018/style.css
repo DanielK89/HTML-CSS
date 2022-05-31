@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 4em;
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    }
